@@ -1,0 +1,20 @@
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\obj\Debug\net8.0\RugHelper.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\obj\Debug\net8.0\RugHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\obj\Debug\net8.0\RugHelper.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\bin\Debug\net8.0\RugHelper.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\bin\Debug\net8.0\RugHelper.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\bin\Debug\net8.0\RugHelper.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\obj\Debug\net8.0\RugHelper.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\obj\Debug\net8.0\refint\RugHelper.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\obj\Debug\net8.0\RugHelper.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\More Badelines\Source\obj\Debug\net8.0\ref\RugHelper.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\bin\Debug\net8.0\RugHelper.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\bin\Debug\net8.0\RugHelper.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\bin\Debug\net8.0\RugHelper.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\RugHelper.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\RugHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\RugHelper.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\RugHelper.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\refint\RugHelper.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\RugHelper.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\ref\RugHelper.dll
