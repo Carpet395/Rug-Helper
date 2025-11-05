@@ -72,7 +72,7 @@ public class ReloadTrigger : Trigger
         }
         triggered = true;
 
-        this.player = player;
+        //this.player = player;
         Everest.Events.Level.OnAfterUpdate += afterUpdate;
         //Level.
         //player.Position = pos;
