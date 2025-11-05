@@ -18,3 +18,4 @@ C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\
 C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\refint\RugHelper.dll
 C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\RugHelper.pdb
 C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\ref\RugHelper.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Rug\Source\obj\Debug\net8.0\RugHelper.sourcelink.json
